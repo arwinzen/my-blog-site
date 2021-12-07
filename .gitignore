@@ -1,0 +1,9 @@
+./my-blog/node_modules
+./blog/node_modules
+./blog/public/hot
+./blog/public/storage
+./blog/vendor
+./blog/env
+./my-blog/expo
+./my-blog/vscode
+
